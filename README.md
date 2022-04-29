@@ -11,9 +11,11 @@ Bemenet (Fájl)
 - egyetlen fájl, aminek a neve: input.txt
 - a fájl felépítése:
 - egyetlen sor, az U utasítások sorozata
+
 Kimenet (Fájl)
 - egyetlen fájl, aminek a neve: output.txt
 - egyetlen sor, ami a robot végső pozíciója [X, Y ] formában
+
 Megkötés(ek)
 - 0 ≤ U utasítások száma ≤ 10 000
 - minden karakter az U-ban, Ui ∈ {. <>}
