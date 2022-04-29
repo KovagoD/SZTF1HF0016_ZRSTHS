@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SZTF1HF0016_ZRSTHS/1.0.0": {
+        "runtime": {
+          "SZTF1HF0016_ZRSTHS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SZTF1HF0016_ZRSTHS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
