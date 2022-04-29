@@ -14,11 +14,11 @@ Bemenet (Fájl):
 
 Kimenet (Fájl):
 - egyetlen fájl, aminek a neve: output.txt
-- egyetlen sor, ami a robot végső pozíciója [X, Y ] formában
+- egyetlen sor, ami a robot végső pozíciója [X,Y] formában
 
 Megkötés(ek):
 - 0 ≤ U utasítások száma ≤ 10 000
 - minden karakter az U-ban, Ui ∈ {. <>}
-- a robot minden esetben a [0, 0] pozícióból indul
+- a robot minden esetben a [0,0] pozícióból indul
 
 ![image](https://user-images.githubusercontent.com/25224122/165916207-42f75681-6901-4b47-8e84-9f6fca978779.png)
